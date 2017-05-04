@@ -1,0 +1,24 @@
+# Map file for tile-based game 
+# (Lines that start with '#' are comments)
+# The tiles are:
+#   (Space) Empty tile
+#   A..Z    Tiles A through Z
+#   o       Coin
+#   *       Door
+#   1       Bad Guy 1 (grub)
+#   2       Bad Guy 2 (Bat)
+#   3       Bad Guy 3 (Hound)
+ 
+CAE                                                                   2                      CAE
+DBF                                                              2     1                     DBF
+DBF                                                        2  2 CAAAAAAAAAAAAAE     o o o o  DBF
+DBF                                               CAE          2DBBBBBBBBBBBBBBE   o o o o o DBF
+DBF                                               HGI         2 DBBBBBBBBBBBBBBF    o o o o  DBF
+DBF               2           2                                 DBBBBBBBBBBBBBBF   o o o o o DBF
+DBF                                       CAE                   DBBBBBBBBBBBBBBBE   CAAAAAE  DBF
+DBF                    1                  HGI                   DBBBBBBBBBBBBBBBF   HGGGGGI  DBF
+DBF            CAAAAAAAAAAAAAAAE                                DBBBBBBBBBBBBBBBBE  o o o o  DBF
+DBF          3 DBBBBBBBBBBBBBBBF        1        3      1     * DBBBBBBBBBBBBBBBBF o o o o o DBF
+DBBAAAAAAAAAAAABBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBAAAAAAAAAAABBF
+DBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBF
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
